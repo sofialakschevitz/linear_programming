@@ -1,1 +1,1 @@
-# PLI---Implementa-o-das-Listas-de-Modelagem
+# PLI - Implementação das listas 5 e 6 de modelagem.
